@@ -3,7 +3,7 @@ TreeWalk ESA
 
 ## Aufgabe:
 
-*Erstellen Sie ein Programm, welches einen Verzeichnisbaum durchwandert (inkl. der Unterverzeichnisse -- also rekursiv). Ermitteln Sie für jeden gefundenen Eintrag die MD5-Summe.  Das Programm soll auf der Standardausgabe für jeden gefundenen Eintrag (Datei, Verzeichnis, Link, ..) den Dateinamen, den Dateipfad (relativ zum Startverzeichnis) sowie  die MD5-Summe (nur für die Datei)  ausgeben. Das Startverzeichnis soll als Kommandozeilen-Parameter an das Skript übergeben werden. *
+*Erstellen Sie ein Programm, welches einen Verzeichnisbaum durchwandert (inkl. der Unterverzeichnisse -- also rekursiv). Ermitteln Sie* für jeden gefundenen Eintrag die MD5-Summe.  Das Programm soll auf der Standardausgabe für jeden gefundenen Eintrag (Datei,* Verzeichnis, Link, ..) den Dateinamen, den Dateipfad (relativ zum Startverzeichnis) sowie  die MD5-Summe (nur für die Datei)  ausgeben.* Das Startverzeichnis soll als Kommandozeilen-Parameter an das Skript übergeben werden. *
 
 *Es soll auch möglich sein, das die Funktion oder Methode in andere Python-Skripte zu importieren.*
 
