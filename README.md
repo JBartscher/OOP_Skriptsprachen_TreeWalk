@@ -14,7 +14,7 @@ TreeWalk ESA
 
 
 ## Beispiel-Kommandos & Ausgabe:
-```python
+```
 > DirTreeWalk.py
 
 usage: DirTreeWalk.py [-h] path
