@@ -14,7 +14,7 @@ TreeWalk ESA
 
 
 ## Beispiel-Kommandos & Ausgabe:
-
+```python
 > DirTreeWalk.py
 
 usage: DirTreeWalk.py [-h] path
@@ -47,3 +47,4 @@ css                    <dir>
 bootstrap.min.css      css/bootstrap.min.css      6e1130d2b2cb83d549ab428771a7e44e
 
 font-awesome.css       css/font-awesome.css       1f9e9d1a5a1d347d945ef4b7727f2ea0
+```
